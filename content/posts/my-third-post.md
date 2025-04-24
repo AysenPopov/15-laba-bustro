@@ -4,4 +4,4 @@ draft = false
 title = 'СВФУ'
 +++
 ## КФЕН
-![фото летом]([https://site/foto](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%D0%9A%D0%A4%D0%95%D0%9D_%D0%A1%D0%92%D0%A4%D0%A3.JPG/960px-%D0%9A%D0%A4%D0%95%D0%9D_%D0%A1%D0%92%D0%A4%D0%A3.JPG))
+![фото летом](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/%D0%9A%D0%A4%D0%95%D0%9D_%D0%A1%D0%92%D0%A4%D0%A3.JPG/960px-%D0%9A%D0%A4%D0%95%D0%9D_%D0%A1%D0%92%D0%A4%D0%A3.JPG)
